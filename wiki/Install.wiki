@@ -1,1 +1,2 @@
+#labels Featured,Phase-Deploy
 Just download and install on your computer
