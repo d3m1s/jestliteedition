@@ -1,2 +1,6 @@
 #labels Featured,Phase-Deploy
-Just download and install on your computer
+1. Scarica e installa il software
+2. Nella finestra di login crea un nuovo utente, utilizzando i diritti di root
+3. Seleziona il menu Impostazioni -> Piano dei conti e importa il file "conti.csv" presente nella cartella "Data" nel percorso di installazione
+4. Ripeti l'operazione per importare le causali base per la gestione dei movimenti contabili
+5. Ora il software è pronto per l'utilizzo
