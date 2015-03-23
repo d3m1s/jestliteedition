@@ -1,0 +1,4 @@
+1. Scarica e installa il software;
+2. Nella finestra di login crea un nuovo utente, utilizzando i diritti di root (operazione da effettuare sul computer che funziona da server);
+3. Seleziona il menu Impostazioni -> Importa dati iniziali -> e importa i file "conti.csv" e "causali.csv" presenti nella cartella "Data" nel percorso di installazione;
+5. Ora il software è pronto per l'utilizzo
